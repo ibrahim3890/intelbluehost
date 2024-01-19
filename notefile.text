@@ -1,0 +1,4 @@
+Register Form Inpur Name.
+first_name,  last_name, email, number, com_name,stree_add,
+stree_add2,city, state,postcode,country,password,com_password,
+checkbox, submit_btn"
